@@ -1,3 +1,165 @@
 body {
-    font-family: "Raleway", "Raleway", sans-serif; 
+    font-family: "Roboto", sans-serif;
+    color: ;
 }
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+/* #region Header */
+.header-page {
+}
+.nav-page {
+}
+.header-address {
+    font-style: normal;
+}
+.addr-list {
+}
+.addr-iten {
+}
+.addr-link {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.addr-link:hover,
+.addr-link:focus {
+    color: #404bbf;
+}
+
+
+.logo {    
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+} 
+
+.logo-style {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.nav-list {}
+.nav-item {}
+.nav-item-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+    }
+
+.nav-item-link:hover,
+.nav-item-link:focus {
+    color: #404bbf;
+}
+
+/* #endregion Header */
+
+/*#region section 1 Order Service*/
+.order-service {
+    background-color: #2e2f42;;
+}
+.title-order-service {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.btn-order-service {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+}
+.btn-order-service:hover {
+    background-color: #404bbf;
+}
+/*#endregion section 1 Order Service*/
+/*#region section 2 Advantages*/
+.advantages {
+}
+.adv-list {
+}
+.adv-category {
+}
+.adv-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.adv-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/*#endregion section 2 Advantages*/
+/*#region section 3 Our Team*/
+.our-team {
+    text-align: center;
+}
+.title-our-team {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.our-team-list {
+}
+.our-team-category {
+}
+.image-our-team {
+}
+.name-our-team {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.desc-our-team {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+/*#endregion section 3 Our Team*/
+
+/*#region section 4 Our Portfolio*/
+
+/*#endregion section 4 Our Portfolio*/
+
