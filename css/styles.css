@@ -100,7 +100,8 @@ button {
     color: #ffffff;
     background-color: #4d5ae5;
 }
-.btn-order-service:hover {
+.btn-order-service:hover, 
+.btn-order-service:focus{
     background-color: #404bbf;
 }
 /*#endregion section 1 Order Service*/
@@ -184,7 +185,7 @@ button {
     color: #2e2f42;
     
 }
-.desc-our-team .desc-our-portfolio {
+.desc-our-portfolio {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
