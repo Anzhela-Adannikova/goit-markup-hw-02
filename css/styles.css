@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: ;
 }
 
 a {
@@ -87,14 +86,14 @@ button {
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 .btn-order-service {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
     background-color: #4d5ae5;
 }
 .btn-order-service:hover {
@@ -125,7 +124,7 @@ button {
 /*#endregion section 2 Advantages*/
 /*#region section 3 Our Team*/
 .our-team {
-    text-align: center;
+    background-color: #f4f4fd;
 }
 .title-our-team {
     font-weight: 700;
@@ -140,6 +139,7 @@ button {
 .our-team-category {
 }
 .image-our-team {
+
 }
 .name-our-team {
     font-weight: 500;
@@ -160,6 +160,39 @@ button {
 /*#endregion section 3 Our Team*/
 
 /*#region section 4 Our Portfolio*/
-
+.our-portfolio {
+}
+.title-our-team .title-our-team {
+}
+.list-our-portfolio {
+}
+.our-team-category .our-portfolio-category {
+}
+.image-our-portfolio {
+}
+.name-our-team .name-our-portfolio {
+}
+.desc-our-team .desc-our-portfolio {
+}
 /*#endregion section 4 Our Portfolio*/
 
+/*#region Footer*/
+.end {
+    background-color: #2e2f42;
+}
+.logo{
+
+}
+footer .logo-style{
+    color: #f4f4fd;
+
+}
+.end-about {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+    
+}
+/*#endregion Footer*/
